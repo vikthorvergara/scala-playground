@@ -2,6 +2,13 @@
 
 A space-partitioning data structure for organizing points in k-dimensional space.
 
+## Tree Data Structures Kata
+
+1. What is the use case for your DS?
+2. What are the pros and cons?
+3. Show the Code.
+4. Show the Tests.
+
 ## Use Case
 
 - Nearest neighbor search (GPS, recommendation engines, image similarity)
